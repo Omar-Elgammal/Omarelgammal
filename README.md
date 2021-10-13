@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Amro
 #### Writing the future one Repo at a time..
-![Screenshot](Matrix-code.png)
+![poster](Matrix-code.png)
 
 
 I work as a ~~Dentist~~ Front-end Developer with some UI/UX design skills. I´m based in Stuttgart, Germany.
