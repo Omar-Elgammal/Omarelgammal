@@ -19,7 +19,7 @@ Since 2020 I've been living and breathing web-development:man_technologist:	, cr
 
 - **:telescope: Continuous Development:**
 
-     As a life-long student my next career growth goals & signed up workshops focus on: PWAs, Node.js, Docker
+     As a life-long student my next career growth goals & signed up workshops focus on: PWAs, AWS, Docker
 
 
 
