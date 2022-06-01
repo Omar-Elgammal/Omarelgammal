@@ -3,7 +3,7 @@
 ![poster](Matrix-code.png)
 
 
-I work as a full-time Web-Development Engineer in Stuttgart-Germany.
+I work as a full-time Web-Development Engineer in Stuttgart-Germany :office:.
 
 
 Since 2020 I've been living and breathing web-development:man_technologist:	, creating modern and user friendly interfaces makes my day. I've had the chance to immerse myself in different small freelance to enterprise-level-governmental projects in team-based scrum agile jira environemnts :woman_in_tuxedo::person_in_tuxedo:, aiming to make this world a little better place for users and developers alike through DRY modular code. :abacus:	
@@ -11,7 +11,7 @@ Since 2020 I've been living and breathing web-development:man_technologist:	, cr
 
 - **:black_nib:	Tech stack:**
 
-     Vue.js / REACT / JavaScript / TypeScript / Storybook / HTML / CSS / Sass / styledComponents / Tailwind / Next.js / Redux / Pimcore CMS / Typo3 CMS / Node.js		Fusion 360 / GraphQl / PHP  / MySql / Symfony / Laravel / Python / Fusion 360 3D Design
+     Vue.js / REACT / JavaScript / TypeScript / Storybook / HTML / CSS / Sass / styledComponents / Tailwind / Next.js / Redux / Pimcore CMS / Typo3 CMS / Node.js / GraphQl / PHP  / MySql / Symfony / Laravel / Python / Fusion 360 guided 3D Design
 		
 		
   
