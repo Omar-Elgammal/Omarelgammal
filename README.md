@@ -3,7 +3,7 @@
 ![poster](Matrix-code.png)
 
 
-I work as a full-time Web-Development Engineer in Stuttgart-Germany :office:.
+I work as a full-time Web-Development Engineer in Stuttgart-Germany :office:, while finishing my masters degree in "Applied Artificial Intelligence"
 
 
 Since 2020 I've been living and breathing web-development:man_technologist:	, creating modern and user friendly interfaces makes my day. I've had the chance to immerse myself in different small freelance to enterprise-level-governmental projects in team-based scrum agile jira environemnts :woman_in_tuxedo::person_in_tuxedo:, aiming to make this world a little better place for users and developers alike through DRY modular code. :abacus:	
